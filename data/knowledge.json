@@ -1,1 +1,60 @@
-
+{
+  "math": {
+    "basics": {
+      "addition": "Toplama işlemi '+' ile yapılır. Örnek: 2 + 3 = 5",
+      "subtraction": "Çıkarma işlemi '-' ile yapılır. Örnek: 5 - 2 = 3",
+      "multiplication": "Çarpma işlemi '*' ile yapılır. Örnek: 4 * 3 = 12",
+      "division": "Bölme işlemi '/' ile yapılır. Örnek: 12 / 4 = 3",
+      "exponent": "Üstel işlem '^' ile yapılır. Örnek: 2^3 = 8",
+      "modulus": "Mod alma işlemi '%' ile yapılır. Örnek: 10 % 3 = 1"
+    },
+    "advanced": {
+      "derivative": "Türev d/dx ile alınır. Örnek: d/dx x^n = n*x^(n-1)",
+      "integral": "İntegral ∫ ile alınır. Örnek: ∫ x^n dx = x^(n+1)/(n+1) + C",
+      "limit": "Limit işlemleri: lim x→a f(x)",
+      "trigonometry": "sin, cos, tan, cot, sec, csc, arcsin, arccos, arctan",
+      "logarithm": "Doğal log: ln(x), Onluk log: log10(x)",
+      "complex": "Karmaşık sayılar: a + bi, temel işlemler ve konjugat",
+      "matrix": "Matris işlemleri: toplama, çarpma, determinant, invers, transpose"
+    }
+  },
+  "science": {
+    "physics": {
+      "mechanics": "Newton yasaları, kinematik, dinamik, enerji, momentum",
+      "thermodynamics": "0., 1., 2., 3. yasa, ısı ve sıcaklık ilişkileri",
+      "electricity": "Ohm yasası: V=IR, güç: P=VI, seri ve paralel devreler",
+      "waves": "Dalgalar: amplitüd, frekans, periyot, ışık ve ses dalgaları"
+    },
+    "chemistry": {
+      "periodic_table": "Elementler, atom numarası, periyotlar ve gruplar",
+      "reaction_types": "Birleşme, ayrışma, yer değiştirme, çift yer değiştirme",
+      "stoichiometry": "Mol hesapları, kütle-hacim ilişkileri"
+    },
+    "biology": {
+      "cell": "Hücre organelleri: çekirdek, mitokondri, ribozom, lizozom",
+      "genetics": "DNA, RNA, kromozom, Mendel yasaları, genetik kod",
+      "ecology": "Ekosistem, enerji akışı, besin zinciri ve döngüler"
+    },
+    "technology": {
+      "computers": "Bilgisayar donanımı, yazılım, ağ, AI ve veri analizi",
+      "programming": "Fonksiyonlar, döngüler, veri yapıları, algoritmalar",
+      "internet": "Protokoller, web teknolojileri, güvenlik ve veri şifreleme"
+    }
+  },
+  "history": {
+    "ancient": "Mısır, Mezopotamya, Yunan, Roma, Çin uygarlıkları",
+    "medieval": "Ortaçağ: feodalizm, Haçlı Seferleri, Osmanlı İmparatorluğu",
+    "modern": "Sanayi Devrimi, Amerikan ve Fransız Devrimi, Dünya Savaşları",
+    "contemporary": "20. ve 21. yüzyıl, Soğuk Savaş, teknolojik devrimler"
+  },
+  "geography": {
+    "continents": "Asya, Avrupa, Afrika, Kuzey Amerika, Güney Amerika, Okyanusya, Antarktika",
+    "countries": "Ülkeler, başkentler, bayraklar, iklim ve coğrafi özellikler",
+    "oceans": "Atlas, Pasifik, Hint, Arktik, Antarktik"
+  },
+  "literature": {
+    "genres": "Roman, öykü, şiir, tiyatro, fantastik, bilim kurgu, klasik ve modern eserler",
+    "authors": "Shakespeare, Tolstoy, Goethe, Orhan Pamuk, Kafka, Jane Austen",
+    "analysis": "Temalar, karakter analizi, edebi akımlar, stil ve metaforlar"
+  }
+}
