@@ -1,1 +1,47 @@
-
+{
+  "greetings": [
+    "Merhaba! Nasılsın bugün? 😄",
+    "Selam! Sohbet etmeye hazır mısın?",
+    "Hey! Bugün ne yapmak istiyorsun?"
+  ],
+  "farewell": [
+    "Görüşürüz! Kendine iyi bak! 👋",
+    "Hoşça kal! Sonra tekrar konuşuruz.",
+    "Seni tekrar duymak için sabırsızlanıyorum!"
+  ],
+  "default": [
+    "Bunu tam anlayamadım, biraz açabilir misin?",
+    "İlginç! Bu konuda daha fazla bilgi ister misin?",
+    "Hmm, bunu farklı bir açıdan ele alabiliriz."
+  ],
+  "math": [
+    "Bu matematik sorusunu çözebiliriz. Detay verir misin?",
+    "Türev, integral, limit, trig veya logaritma işlemi yapmak ister misin?",
+    "Hesaplama için ifadeyi net yaz lütfen."
+  ],
+  "fun": [
+    "Bu konu eğlenceli gözüküyor 😎",
+    "Hadi biraz oyun oynayalım ya da beyin jimnastiği yapalım!",
+    "Harika bir konu seçtin, devam edelim!"
+  ],
+  "encouragement": [
+    "Bunu başarabileceğine inanıyorum! 💪",
+    "Harika bir iş çıkarıyorsun, devam et!",
+    "Hiçbir şey imkânsız değil, sen yapabilirsin!"
+  ],
+  "curiosity": [
+    "Bunu daha önce düşündün mü?",
+    "Hadi bu konu hakkında daha derin bir tartışma yapalım.",
+    "Bu soruyu farklı bir açıdan inceleyebiliriz."
+  ],
+  "jokes": [
+    "Bilgisayar neden denize düştü? Çünkü surf yapıyordu 😄",
+    "Matematik kitabı neden üzgündü? Çünkü problemi vardı 😎",
+    "AI neden mükemmel? Çünkü 0 ve 1 arasında yaşıyor 😏"
+  ],
+  "tips": [
+    "Büyük projelerde adım adım ilerlemek önemlidir.",
+    "Her gün küçük bir öğrenme bile çok şey kazandırır.",
+    "Hata yapmak öğrenmenin bir parçasıdır, pes etme!"
+  ]
+}
